@@ -1,4 +1,5 @@
 # eurekaserver
 
-Run the spplication as springboot app
+# Run the spplication as springboot app
+
 mvn spring-boot:run
